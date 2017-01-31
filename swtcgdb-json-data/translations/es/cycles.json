@@ -1,0 +1,34 @@
+[
+    {
+        "code": "bng",
+        "name": "Sangre y Oro"
+    },
+    {
+        "code": "core",
+        "name": "Caja Básica"
+    },
+    {
+        "code": "draft",
+        "name": "Formato draft"
+    },
+    {
+        "code": "lions",
+        "name": "Leones de Roca Casterly"
+    },
+    {
+        "code": "war",
+        "name": "Ciclo de la Guerra de los Cinco Reyes"
+    },
+    {
+        "code": "watchers",
+        "name": "Vigilantes del Muro"
+    },
+    {
+        "code": "westeros",
+        "name": "Ciclo de Poniente"
+    },
+    {
+        "code": "wolves",
+        "name": "Lobos del Norte"
+    }
+]
